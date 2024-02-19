@@ -13,7 +13,7 @@ The most common password in 2020:
 9. 1234567890
 10. senha
 
-If you password is above, change it today.
+If your password is above, change it today.
 
 Most phones have a minimum requirement of 4 digit passcode. How much time will it take to crack 4 digit passcode? You can use brute force attack.
 10 x 10 x 10 x 10 = 10,000 
